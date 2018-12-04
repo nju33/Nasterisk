@@ -1,0 +1,14 @@
+{
+  "name": "Nasterisk",
+  "version": "0.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:nju33/Nasterisk.git",
+  "author": "nju33 <nju33.ki@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "Nnow": "src/now.sh"
+  },
+  "dependencies": {
+    "yargs": "^12.0.5"
+  }
+}
